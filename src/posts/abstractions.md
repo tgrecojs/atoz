@@ -5,9 +5,7 @@ hero_image: ../static/Letter-A.jpg
 title: Abstractions in JS
 ---
 
-### Introduction
-
-Greetings earthlings! And welcome to another install of A to Z in FP. In today's article, we'll be targeting a concept that, like the Alphabet, also begins with the letter _A -_ **Abstraction!**
+Greetings earthlings! And welcome to another install of A to Z in FP. In today's article, we'll be targeting a concept that, like the Alphabet, also begins with the letter "A" **Abstraction!**
 
 ![Letter A Image](/static/Letter-A.jpg)
 
