@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{AnCH:function(o){o.exports=JSON.parse('{"fileRelativePath":"src/data/config.json","title":"A to Z in FP","description":"Blog application for functional programming learning guide: \'A to Z in FP\'.","repositoryUrl":"https://github.com/tgrecojs/atoz"}')}}]);
