@@ -2,10 +2,10 @@
 title: info page
 background_color: '#AEC4BE'
 ---
-## This blog was created using [TinaCMS](https://tinacms.org) & [NextJS](https://nextjs.org/) 
 
-## To get started, read the TinaCMS [docs](https://tinacms.org/docs) or checkout the [repository](https://github.com/kendallstrautman/brevifolia-next-tinacms).
+### AtoZinFP is a a project for functional programming fans of all skillsets.
 
-- ## Email: [hello@tinacms.org]
-- ## Twitter: [@tina_cms](https://twitter.com/tina_cms)
-- ## Github: [tinacms](https://github.com/tinacms/tinacms)
+- Created by [Thomas Greco](https://github.com/tgreco)
+- Follow him on twitter [@tgrecojs](https://twitter.com/tgrecojs)
+
+#### Built with [TinaCMS](https://tinacms.org) & [NextJS](https://nextjs.org/)

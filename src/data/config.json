@@ -1,1 +1,6 @@
-{"fileRelativePath":"src/data/config.json","title":"Modern Nomad","description":"Starter blog using Tina CMS with Next.js.","repositoryUrl":"https://github.com/kendallstrautman/brevifolia-next-tinacms"}
+{
+  "fileRelativePath": "src/data/config.json",
+  "title": "A to Z in FP",
+  "description": "Blog application for functional programming learning guide: 'A to Z in FP'.",
+  "repositoryUrl": "https://github.com/tgrecojs/atozinfp"
+}
