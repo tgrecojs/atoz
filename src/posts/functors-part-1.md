@@ -2,7 +2,7 @@
 author: Thomas Greco
 date: '2020-03-20T07:00:00.000Z'
 hero_image: ../static/Letter-F.jpg
-title: 'Fun with Functors - Part 1'
+title: Fun with Functors - Part 1
 ---
 
 Functional programming is littered with terminology that sounds really confusing. If you're new to FP or even programming in general, then it's important to keep in mind that these are just words used to describe concepts that you're likely already familiar with. As you continue on learning, you'll begin to understand that these terms simply allow for us to base our programming practices in various mathematical theorems, thus ultimately create pure, deterministic programs.
