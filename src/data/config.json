@@ -1,6 +1,6 @@
 {
   "fileRelativePath": "src/data/config.json",
   "title": "A to Z in FP",
-  "description": "A website for learning about applying functional programming concepts to web application development ",
+  "description": "A website for learning about applying functional programming concepts to web application development. ",
   "repositoryUrl": "https://github.com/tgrecojs/atoz"
 }
