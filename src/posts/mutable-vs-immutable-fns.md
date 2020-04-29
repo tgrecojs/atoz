@@ -1,7 +1,7 @@
 ---
 author: Thomas Greco
 date: '2020-04-27T07:00:00.000Z'
-hero_image: ../static/array-methods.svg
+hero_image: ../static/array-methods.png
 title: Deep dive into JavaScript's built-in array methods
 ---
 

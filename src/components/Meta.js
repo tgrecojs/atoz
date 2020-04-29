@@ -8,6 +8,12 @@ export default function Meta(props) {
         <meta charSet="utf-8" />
         <title>{props.siteTitle}</title>
         <meta name="Description" content={props.description}></meta>
+        <link rel="alternate" hreflang="en" href="https://atozinfp.com" />
+        <link rel="alternate" hreflang="de" href="https://de.atozinfp.com" />
+        <link rel="alternate" hreflang="pt" href="https://pt.atozinfp.com" />
+        <link rel="alternate" hreflang="ru" href="https://ru.atozinfp.com" />
+        <link rel="alternate" hreflang="es" href="https://es.atozinfp.com" />
+        <script type="text/javascript" src="https://cdn.weglot.com/weglot.min.js"></script>
       </Head>
       <style jsx global>
         {`
