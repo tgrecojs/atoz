@@ -1,3 +1,10 @@
+---
+author: Thomas Greco
+date: '2020-04-27T07:00:00.000Z'
+hero_image: ../static/Letter-A.jpg
+title: Understanding the Importance of Function Purity
+---
+
 ### Pure Functions
 
 #### Intro
