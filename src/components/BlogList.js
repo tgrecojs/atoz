@@ -16,7 +16,7 @@ const BlogList = props => {
   return (
     <>
       <ul className="list">
-        {posts.length > 1 &&
+        {posts.length >= 1 &&
           posts.map(post => {
             return (
               <Link key={post.slug} href={{ pathname: `/blog/${post.slug}` }}>

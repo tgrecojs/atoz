@@ -1,23 +1,27 @@
-import Link from "next/link";
+import Link from 'next/link'
 
 export default function Header(props) {
   return (
     <header className="header">
-      <nav
-        className="nav"
-        role="navigation"
-        aria-label="main navigation"
-      >
+      <nav className="nav" role="navigation" aria-label="main navigation">
         <Link href="/">
           <h1>{props.siteTitle}</h1>
         </Link>
         <div>
-          <Link href={`${typeof window !== "undefined" &&
-          window.location.pathname == "/info" ?
-          "/" : "/info"}`}>
-            <h1>{`${typeof window !== "undefined" &&
-          window.location.pathname == "/info" ?
-          "close" : "info"}`}</h1>
+          <Link
+            href={`${
+              typeof window !== 'undefined' &&
+              window.location.pathname == '/info'
+                ? '/'
+                : '/info'
+            }`}
+          >
+            <h1>{`${
+              typeof window !== 'undefined' &&
+              window.location.pathname == '/info'
+                ? 'close'
+                : 'info'
+            }`}</h1>
           </Link>
         </div>
       </nav>
@@ -44,6 +48,7 @@ export default function Header(props) {
             .header {
               height: 100vh;
               position: fixed;
+              background: #c2a8fb;
               left: 0;
               top: 0;
             }
@@ -51,7 +56,7 @@ export default function Header(props) {
               padding: 2rem;
               width: 30vw;
               height: 100%;
-              border-right: 1px solid #ebebeb;
+              border-right: 1px solid #ff3c3c;
               border-bottom: none;
               flex-direction: column;
               align-items: flex-start;
@@ -60,5 +65,5 @@ export default function Header(props) {
         `}
       </style>
     </header>
-  );
+  )
 }

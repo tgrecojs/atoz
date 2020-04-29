@@ -1,6 +1,6 @@
 ---
 title: info page
-background_color: '#AEC4BE'
+background_color: '#fc6465'
 ---
 
 ### AtoZinFP is a a project for functional programming fans of all skillsets.
